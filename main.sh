@@ -1,1 +1,3 @@
-This is my test file from Git to jenkins
+
+#!/bin/bash
+echo "This is my test file from Git to jenkins"
